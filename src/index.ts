@@ -21,5 +21,5 @@ let funcion = function (elementos: number, contenido: string) {
     console.log(vector[i]);
   }
 };
-
+/**/ */
 funcion(elementos, contenido);
